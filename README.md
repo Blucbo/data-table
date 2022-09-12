@@ -1,5 +1,11 @@
 # Mlb
 
+## Installing
+`npm install @angular/cli` or `npx npm install @angular/cli`
+Installing dependency `npm i`
+Run application
+`npm run start`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
